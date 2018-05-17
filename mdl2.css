@@ -10,7 +10,7 @@ GitHub: https://github.com/CKGrafico/Segoe-mdl2-assets-css
 }
 
 [class^="mdl2-"]::before, [class*="mdl2-"]::before {
-  font-size: 1.8pc;
+  font-size: 1.0pc;
 }
 
 .mdl2-heart-legacy::before  { content: '\e006'; } 
